@@ -2,7 +2,7 @@
 Package:      libTheSky
 Description:  Fortran library to compute properties of objects in The Sky
 Homepage:     http://libthesky.sourceforge.net
-Copyright:    Copyright (c) 2002-2013  AstroFloyd - astrofloyd.org
+Copyright:    Copyright (c) 2002-2014  AstroFloyd - astrofloyd.org
 
 
 The package libTheSky provides a Fortran library to compute the positions and other 
@@ -22,7 +22,7 @@ For installation instructions, see INSTALL.
 
 LICENCE:
 
-Copyright (c) 2002-2013  AstroFloyd - astrofloyd.org
+Copyright (c) 2002-2014  AstroFloyd - astrofloyd.org
  
 This file is part of the libTheSky package.
  

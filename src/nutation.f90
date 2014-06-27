@@ -3,7 +3,7 @@
 !! \todo  Check difference in outcome between rev.198 and 199
 
 
-!  Copyright (c) 2002-2013  AstroFloyd - astrofloyd.org
+!  Copyright (c) 2002-2014  AstroFloyd - astrofloyd.org
 !   
 !  This file is part of the libTheSky package, 
 !  see: http://libthesky.sf.net/

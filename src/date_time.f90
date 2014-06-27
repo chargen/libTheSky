@@ -1,7 +1,7 @@
 !> \file date_time.f90  Contains date and time procedures for libTheSky
 
 
-!  Copyright (c) 2002-2013  AstroFloyd - astrofloyd.org
+!  Copyright (c) 2002-2014  AstroFloyd - astrofloyd.org
 !   
 !  This file is part of the libTheSky package, 
 !  see: http://libthesky.sf.net/
