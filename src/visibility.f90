@@ -1,7 +1,7 @@
 !> \file visibility.f90  Contains procedures to determine the visibility of objects for libTheSky
 
 
-!  Copyright (c) 2002-2016  AstroFloyd - astrofloyd.org
+!  Copyright (c) 2002-2017  AstroFloyd - astrofloyd.org
 !   
 !  This file is part of the libTheSky package, 
 !  see: http://libthesky.sf.net/

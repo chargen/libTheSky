@@ -1,7 +1,7 @@
 !> \file moon_position.f90  Core procedures that calculate the position and magnitude of the Moon for libTheSky
 
 
-!  Copyright (c) 2002-2016  AstroFloyd - astrofloyd.org
+!  Copyright (c) 2002-2017  AstroFloyd - astrofloyd.org
 !   
 !  This file is part of the libTheSky package, 
 !  see: http://libthesky.sf.net/
